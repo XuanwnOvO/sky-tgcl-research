@@ -1,0 +1,352 @@
+
+=== template 72B (15572 recs, levels 10) ===
+  +   0 H uniq=   18 v=4128321537
+  +   4 H uniq=   16 v=100489536
+  +   8 H uniq=   18 v=4128322625
+  +  12 U uniq=    4 v=64
+  +  16 H uniq=   11 v=1212486400
+  +  20 H uniq=   23 v=369758013
+  +  24 H uniq=   17 v=289721535
+  +  28 H uniq=   23 v=1322811453
+  +  32 H uniq=   30 v=2726416703
+  +  36 H uniq=   29 v=180351554
+  +  40 H uniq=   30 v=3248613697
+  +  44 U uniq=    6 v=67
+  +  48 H uniq=   16 v=1536
+
+=== template 35B (8352 recs, levels 10) ===
+  +   0 H uniq=   27 v=2945024
+  +   4 H uniq=   30 v=2583756800
+  +   8 H uniq=   19 v=7198465
+
+=== template 391B (5208 recs, levels 10) ===
+  +   0 F uniq=    3 v=0.0
+  +   4 F uniq=   30 v=0.5319
+  +   8 F uniq=   23 v=0.0
+  +  12 F uniq=   30 v=0.3195
+  +  16 F uniq=    1 v=0.0
+  +  20 F uniq=   29 v=-0.5477
+  +  24 F uniq=   30 v=15.3207
+  +  28 F uniq=   27 v=0.9118
+  +  32 F uniq=    1 v=0.0
+  +  36 F uniq=   30 v=-15.5902
+  +  40 F uniq=   28 v=-2.1021
+  +  44 F uniq=   30 v=25.9554
+  +  48 F uniq=    1 v=0.0
+  +  52 F uniq=   30 v=454.2668
+  +  56 F uniq=   30 v=211.9746
+  +  60 F uniq=   30 v=-990.5496
+  +  64 F uniq=    1 v=1.0
+  +  68 F uniq=    2 v=2.0
+  +  72 F uniq=    2 v=2.0
+  +  76 F uniq=    1 v=0.0
+  +  80 F uniq=    1 v=0.0
+  +  84 H uniq=    2 v=3321
+  +  88 H uniq=   19 v=5
+  +  92 F uniq=    1 v=0.0
+  +  96 F uniq=    2 v=0.0
+  + 100 F uniq=    1 v=0.0
+  + 104 F uniq=    1 v=0.0
+  + 108 F uniq=    2 v=2.0
+  + 112 F uniq=    2 v=2.0
+  + 116 F uniq=    1 v=0.0
+  + 120 F uniq=    1 v=0.0
+  + 124 F uniq=   10 v=0.125
+  + 128 F uniq=    1 v=0.0
+  + 132 F uniq=    1 v=0.0
+  + 136 F uniq=    1 v=0.0
+  + 140 F uniq=    1 v=0.0
+  + 144 F uniq=    7 v=0.0
+  + 148 F uniq=    4 v=1.0
+  + 152 F uniq=    3 v=2.0
+  + 156 F uniq=    2 v=0.0
+  + 160 F uniq=    2 v=0.0
+  + 164 F uniq=    2 v=0.0
+  + 168 F uniq=    1 v=0.0
+  + 172 F uniq=    4 v=0.5
+  + 176 F uniq=    4 v=1.0
+  + 180 F uniq=    1 v=0.0
+  + 184 F uniq=    1 v=0.0
+  + 188 H uniq=    6 v=2147483696
+  + 192 U uniq=    2 v=63
+  + 196 F uniq=    2 v=107374592.0
+  + 200 H uniq=    2 v=3865470527
+  + 204 U uniq=    2 v=62
+  + 208 U uniq=    3 v=768
+  + 212 H uniq=    5 v=3607757056
+  + 216 H uniq=   10 v=15523
+  + 220 H uniq=   10 v=16704
+  + 224 F uniq=    1 v=0.0
+  + 228 H uniq=    3 v=1048576
+  + 232 F uniq=    1 v=0.0
+  + 236 H uniq=    5 v=16672
+  + 240 H uniq=    4 v=16544
+  + 244 F uniq=    1 v=0.0
+  + 248 F uniq=    1 v=0.0
+  + 252 F uniq=    1 v=0.0
+  + 256 F uniq=    1 v=0.0
+  + 260 F uniq=    1 v=0.0
+  + 264 H uniq=    3 v=3435986944
+  + 268 H uniq=   29 v=3978313292
+  + 272 H uniq=   15 v=7526403
+  + 276 H uniq=    3 v=4436992
+  + 280 H uniq=    9 v=0
+  + 284 H uniq=    1 v=12760064
+  + 288 H uniq=    1 v=12760064
+  + 292 F uniq=    1 v=0.0
+  + 296 H uniq=    3 v=4093640704
+  + 300 F uniq=    3 v=0.0
+  + 304 F uniq=    3 v=-134217728.0
+  + 308 H uniq=    8 v=4082892
+  + 312 H uniq=    4 v=12656640
+  + 316 F uniq=    1 v=0.0
+  + 320 F uniq=    1 v=0.0
+  + 324 H uniq=    4 v=0
+  + 328 F uniq=    1 v=0.0
+  + 332 H uniq=    3 v=4259840
+  + 336 H uniq=   13 v=12760064
+  + 340 H uniq=    6 v=4594752
+  + 344 H uniq=    5 v=167772160
+  + 348 H uniq=   18 v=71050199
+  + 352 H uniq=    1 v=2583691264
+  + 356 H uniq=    3 v=4151705
+  + 360 H uniq=    6 v=4128768
+  + 364 F uniq=    7 v=65.0
+
+=== template 71B (4297 recs, levels 10) ===
+  +   0 F uniq=   16 v=1.0
+  +   4 F uniq=   13 v=1.0
+  +   8 F uniq=   14 v=1.0
+  +  12 F uniq=    4 v=0.0
+  +  16 F uniq=   13 v=0.0
+  +  20 F uniq=   27 v=0.9985
+  +  24 F uniq=   13 v=0.0
+  +  28 F uniq=   27 v=0.0551
+  +  32 F uniq=   30 v=194.0386
+  +  36 F uniq=   27 v=17.3065
+  +  40 F uniq=   29 v=164.0726
+  +  44 F uniq=    4 v=0.0
+
+=== template 51B (3071 recs, levels 10) ===
+  +   0 H uniq=    5 v=4294967040
+  +   4 H uniq=    7 v=4294967295
+  +   8 H uniq=   29 v=754385151
+  +  12 H uniq=    8 v=65536
+  +  16 H uniq=    7 v=4294967295
+  +  20 H uniq=   18 v=1073741824
+  +  24 H uniq=    7 v=4294967295
+
+=== template 34B (2904 recs, levels 9) ===
+  +   0 H uniq=   29 v=335544320
+  +   4 H uniq=   30 v=1946157070
+  +   8 H uniq=   27 v=150994972
+
+=== template 27B (2872 recs, levels 10) ===
+  +   0 H uniq=    8 v=0
+
+=== template 39B (2038 recs, levels 10) ===
+  +   0 H uniq=    3 v=3
+  +   4 H uniq=   28 v=8602
+  +   8 H uniq=   27 v=3473
+  +  12 H uniq=   28 v=10051
+
+=== template 42B (1725 recs, levels 9) ===
+  +   0 H uniq=   24 v=2944256
+  +   4 H uniq=    9 v=0
+  +   8 H uniq=   18 v=4278190336
+  +  12 H uniq=   29 v=4009754623
+  +  16 H uniq=   29 v=16777260
+
+=== template 147B (1594 recs, levels 10) ===
+  +   0 F uniq=    2 v=0.0
+  +   4 F uniq=   30 v=0.5815
+  +   8 F uniq=   22 v=-0.0409
+  +  12 F uniq=   30 v=-0.8125
+  +  16 F uniq=    1 v=0.0
+  +  20 F uniq=   30 v=-0.6075
+  +  24 F uniq=   30 v=0.6426
+  +  28 F uniq=   30 v=-0.467
+  +  32 F uniq=    1 v=0.0
+  +  36 F uniq=   30 v=0.5412
+  +  40 F uniq=   30 v=0.7651
+  +  44 F uniq=   30 v=0.3488
+  +  48 F uniq=    1 v=0.0
+  +  52 F uniq=   30 v=286.821
+  +  56 F uniq=   30 v=167.0958
+  +  60 F uniq=   30 v=249.938
+  +  64 F uniq=    1 v=1.0
+  +  68 F uniq=    1 v=0.0
+  +  72 F uniq=    1 v=0.0
+  +  76 F uniq=    2 v=0.0
+  +  80 F uniq=    1 v=0.0
+  +  84 F uniq=    1 v=0.0
+  +  88 U uniq=    6 v=3
+  +  92 F uniq=    4 v=20.0
+  +  96 F uniq=    1 v=0.0
+  + 100 F uniq=    9 v=7.0
+  + 104 F uniq=    1 v=0.0
+  + 108 F uniq=    4 v=0.0
+  + 112 F uniq=    3 v=0.0
+  + 116 F uniq=    4 v=-1.0
+  + 120 F uniq=    1 v=0.0
+
+=== template 106B (1463 recs, levels 10) ===
+  +   0 H uniq=    7 v=3213354030
+  +   4 H uniq=    3 v=0
+  +   8 H uniq=   14 v=1049869121
+  +  12 H uniq=   23 v=0
+  +  16 H uniq=    3 v=0
+  +  20 H uniq=    6 v=1061042562
+  +  24 H uniq=    4 v=0
+  +  28 H uniq=    2 v=0
+  +  32 F uniq=    6 v=-0.2885
+  +  36 H uniq=    2 v=0
+  +  40 H uniq=    6 v=3213354030
+  +  44 F uniq=    2 v=0.0
+  +  48 F uniq=    9 v=410.3579
+  +  52 H uniq=    7 v=1114386716
+  +  56 F uniq=   10 v=-8.4863
+  +  60 H uniq=    6 v=1065353216
+  +  64 H uniq=    5 v=0
+  +  68 H uniq=    6 v=1
+  +  72 H uniq=   28 v=37748992
+  +  76 H uniq=    6 v=65356
+  +  80 H uniq=   15 v=100663296
+
+=== template 47B (1421 recs, levels 10) ===
+  +   0 H uniq=    8 v=2147483648
+  +   4 H uniq=   24 v=63
+  +   8 H uniq=   28 v=1986098944
+  +  12 H uniq=   25 v=101
+  +  16 H uniq=   27 v=1
+  +  20 H uniq=   27 v=6398
+
+=== template 31B (1384 recs, levels 10) ===
+  +   0 H uniq=    2 v=1
+  +   4 H uniq=   30 v=3363
+
+=== template 43B (1382 recs, levels 10) ===
+  +   0 H uniq=    4 v=0
+  +   4 H uniq=   27 v=4278190080
+  +   8 H uniq=   26 v=16777215
+  +  12 H uniq=   23 v=0
+  +  16 H uniq=   25 v=4294967295
+
+=== template 50B (1321 recs, levels 10) ===
+  +   0 H uniq=   13 v=4294967295
+  +   4 H uniq=   16 v=4294967295
+  +   8 H uniq=   29 v=1027328
+  +  12 H uniq=   19 v=4278190080
+  +  16 H uniq=   17 v=16777215
+  +  20 H uniq=   27 v=4282425344
+  +  24 H uniq=   28 v=83886079
+
+=== template 38B (1284 recs, levels 9) ===
+  +   0 H uniq=   11 v=4294967040
+  +   4 H uniq=   29 v=440009215
+  +   8 H uniq=   21 v=419299328
+  +  12 H uniq=   23 v=100663296
+
+=== template 41B (1207 recs, levels 9) ===
+  +   0 H uniq=   23 v=0
+  +   4 H uniq=   13 v=11548
+  +   8 H uniq=   17 v=1036831949
+  +  12 H uniq=   24 v=1050673152
+  +  16 H uniq=   24 v=917504
+
+=== template 53B (1079 recs, levels 9) ===
+  +   0 H uniq=    6 v=4294967040
+  +   4 H uniq=   12 v=255
+  +   8 H uniq=   12 v=1802257665
+  +  12 H uniq=   11 v=1702260557
+  +  16 H uniq=   16 v=2945280
+  +  20 H uniq=   11 v=4294967040
+  +  24 H uniq=   21 v=2147483903
+  +  28 H uniq=   23 v=786495
+
+=== template 26B (1072 recs, levels 9) ===
+  +   0 H uniq=   29 v=104824832
+
+=== template 59B (899 recs, levels 10) ===
+  +   0 H uniq=    6 v=0
+  +   4 H uniq=   26 v=2973728768
+  +   8 H uniq=   26 v=2
+  +  12 H uniq=   20 v=4278190080
+  +  16 H uniq=   23 v=1107296255
+  +  20 H uniq=   27 v=1597518416
+  +  24 H uniq=   25 v=1918989395
+  +  28 H uniq=   24 v=1164989797
+  +  32 H uniq=   27 v=25710
+
+=== template 64B (852 recs, levels 9) ===
+  +   0 U uniq=    3 v=257
+  +   4 H uniq=    3 v=4294902016
+  +   8 H uniq=    2 v=131071
+  +  12 H uniq=    2 v=4161536
+  +  16 H uniq=   29 v=989855744
+  +  20 H uniq=    8 v=22
+  +  24 H uniq=    3 v=4294901760
+  +  28 H uniq=   29 v=570490879
+  +  32 H uniq=   13 v=21
+  +  36 H uniq=    2 v=4294967040
+  +  40 H uniq=   17 v=5375
+
+=== template 55B (815 recs, levels 10) ===
+  +   0 H uniq=    7 v=0
+  +   4 H uniq=   22 v=1065353216
+  +   8 H uniq=   23 v=2874
+  +  12 H uniq=   19 v=0
+  +  16 H uniq=   19 v=4294967295
+  +  20 H uniq=   22 v=1165455170
+  +  24 H uniq=   23 v=1702129517
+  +  28 H uniq=   21 v=12639
+
+=== template 91B (796 recs, levels 10) ===
+  +   0 H uniq=    5 v=65536
+  +   4 F uniq=    4 v=0.0
+  +   8 F uniq=    3 v=0.0
+  +  12 F uniq=    3 v=0.0
+  +  16 H uniq=   27 v=1778450432
+  +  20 H uniq=   19 v=34
+  +  24 H uniq=    7 v=4278190336
+  +  28 H uniq=    5 v=16777215
+  +  32 H uniq=    4 v=4294967295
+  +  36 F uniq=    3 v=0.0
+  +  40 F uniq=    4 v=-0.0
+  +  44 H uniq=    3 v=4294967103
+  +  48 H uniq=    4 v=4294967295
+  +  52 H uniq=    5 v=255
+  +  56 H uniq=    6 v=4278190080
+  +  60 H uniq=    4 v=16777215
+  +  64 H uniq=   30 v=11524
+
+=== template 115B (791 recs, levels 10) ===
+  +   0 H uniq=   10 v=8
+  +   4 H uniq=   23 v=7282
+  +   8 H uniq=   24 v=10967
+  +  12 H uniq=   24 v=8989
+  +  16 H uniq=   26 v=7693
+  +  20 H uniq=   24 v=4671
+  +  24 H uniq=   23 v=1141
+  +  28 H uniq=   21 v=8205
+  +  32 H uniq=   20 v=2521
+  +  36 H uniq=   25 v=7
+  +  40 H uniq=   22 v=1316254530
+  +  44 H uniq=   23 v=1600480367
+  +  48 H uniq=   23 v=3617849
+  +  52 H uniq=   20 v=9
+  +  56 H uniq=   24 v=157
+  +  60 H uniq=   22 v=2988
+  +  64 H uniq=   24 v=1368
+  +  68 H uniq=   27 v=10065
+  +  72 H uniq=   26 v=8382
+  +  76 H uniq=   22 v=8864
+  +  80 H uniq=   24 v=2341
+  +  84 H uniq=   22 v=10209
+  +  88 H uniq=   22 v=8931
+
+=== template 37B (783 recs, levels 10) ===
+  +   0 H uniq=   13 v=720896
+  +   4 H uniq=   26 v=0
+  +   8 H uniq=   22 v=0
+  +  12 H uniq=   20 v=409472

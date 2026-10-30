@@ -1,0 +1,29 @@
+# 游戏本体与衍生二进制 —— 不入库
+Children of the Light/
+bootloader/
+decompiled_lua/
+extracted_lua/
+dump.cs
+新建文件夹/
+
+# IDA 数据库
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# 过程版导出（保留 final3 终局版）
+tgcl_final_Dawn.json
+tgcl_final_CandleSpace.json
+tgcl_final_DuskGraveyard.json
+tgcl_final_RainForest.json
+tgcl_final2_*.json
+tgcl_Dawn.json
+tgcl_CandleSpace.json
+
+# 系统垃圾
+__pycache__/
+*.pyc
+Thumbs.db
